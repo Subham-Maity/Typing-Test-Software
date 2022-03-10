@@ -3,14 +3,14 @@ I am **Subham Maity**
 I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
 ## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
 
-![]()
+![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/CodeXam.gif)
 
 Details about this Python Project (CodeXam)
 
-Open This project Like This![](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.001.png)
+Open This project Like This![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.001.png)
 
 # Start
-1.In this Python project idea, we are going to build an exciting project through which you can ![](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.002.png)**check** and even **improve** your typing speed. For a graphical user interface, we are going to use 
+1.In this Python project idea, we are going to build an exciting project through which you can ![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.002.png)**check** and even **improve** your typing speed. For a graphical user interface, we are going to use 
 
 the **pygame** library which is used for working with graphics. We will draw the images and text to be displayed on the screen.
 
@@ -18,7 +18,7 @@ the **pygame** library which is used for working with graphics. We will draw the
 
 Let us understand the file structure of the Python project with the source code that we are going to build:
 
-- Background.jpg – A background image we will use in our program![](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.003.png)
+- Background.jpg – A background image we will use in our program![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.003.png)
 - Icon.png – An icon image that we will use as a reset button.
 - Sentences.txt – This text file will contain a list of sentences separated by a new line.
 - Speed typing.py – The main program file that contains all the 
@@ -31,11 +31,11 @@ code
 
 **This time we will be using an Object-oriented approach to build the program.**
 
-# 1. Import the libraries![](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.004.png)
+# 1. Import the libraries![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.004.png)
 
 For this project based on Python, we are using the pygame library. So we need to import the library along with some built-in modules of Python like time and random library.
 
-![](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.005.png)
+![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.005.png)
 
 ```
 import pygame
@@ -48,7 +48,7 @@ import time
 import random!
 
 ```
-[](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.006.png)
+[](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.006.png)
 
 
 # 2. Create the game class
@@ -409,4 +409,4 @@ Game().run()
 
 Output : 
 
-![](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.021.png)
+![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.021.png)
