@@ -1,4 +1,11 @@
-﻿Details about this Python Project (CodeXam)
+# Intro of The Developer
+I am **Subham Maity**
+I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
+## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
+
+![]()
+
+Details about this Python Project (CodeXam)
 
 Open This project Like This![](Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.001.png)
 
