@@ -22,10 +22,10 @@ the **pygame** library which is used for working with graphics. We will draw the
 
 Let us understand the file structure of the Python project with the source code that we are going to build:
 
-- Background.jpg – A background image we will use in our program![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.003.png)
-- Icon.png – An icon image that we will use as a reset button.
-- Sentences.txt – This text file will contain a list of sentences separated by a new line.
-- Speed typing.py – The main program file that contains all the 
+## - Background.jpg – A background image we will use in our program![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.003.png)
+## - Icon.png – An icon image that we will use as a reset button.
+## - Sentences.txt – This text file will contain a list of sentences separated by a new line.
+## - Speed typing.py – The main program file that contains all the 
 
 code
 
