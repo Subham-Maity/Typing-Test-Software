@@ -25,11 +25,8 @@ Let us understand the file structure of the Python project with the source code 
 - ## Background.jpg – A background image we will use in our program![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.003.png)
 - ## Icon.png – An icon image that we will use as a reset button.
 - ## Sentences.txt – This text file will contain a list of sentences separated by a new line.
-- ## Speed typing.py – The main program file that contains all the 
-
-code
-
-- Typing-speed-open.png – The image to display when starting the game
+- ## Speed typing.py – The main program file that contains all the code
+- ## Typing-speed-open.png – The image to display when starting the game
 
 **First, we have created the sentences.txt file in which we have added multiple sentences separated by a new line.**
 
