@@ -10,7 +10,8 @@ Details about this Python Project (CodeXam)
 Open This project Like This![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.001.png)
 
 # Start
-1.In this Python project idea, we are going to build an exciting project through which you can ![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.002.png)**check** and even **improve** your typing speed. For a graphical user interface, we are going to use 
+1.In this Python project idea, we are going to build an exciting project through which you can ![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.002.png)**check** and 
+even **improve** your typing speed. For a graphical user interface, we are going to use 
 
 the **pygame** library which is used for working with graphics. We will draw the images and text to be displayed on the screen.
 
