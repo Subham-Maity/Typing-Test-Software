@@ -25,6 +25,7 @@ Let us understand the file structure of the Python project with the source code 
 - ## Background.jpg – A background image we will use in our program![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.003.png)
 - ## Icon.png – An icon image that we will use as a reset button.
 - ## Sentences.txt – This text file will contain a list of sentences separated by a new line.
+  Import the text![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.004.png)
 - ## Speed typing.py – The main program file that contains all the code
 - ## Typing-speed-open.png – The image to display when starting the game
 
@@ -32,9 +33,7 @@ Let us understand the file structure of the Python project with the source code 
 
 **This time we will be using an Object-oriented approach to build the program.**
 
-# 1. Import the libraries![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.004.png)
-
-For this project based on Python, we are using the pygame library. So we need to import the library along with some built-in modules of Python like time and random library.
+# 1. For this project based on Python, we are using the pygame library. So we need to import the library along with some built-in modules of Python like time and random library.
 
 ![](https://github.com/Subham-Maity/Typing-Speed-Test-Software/blob/master/Images/Aspose.Words.e5837a94-d310-486a-84a1-fa23b396cb91.005.png)
 
